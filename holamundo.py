@@ -4,7 +4,8 @@ def sumar(a,b):
 s = 3
 k = 1
 sumar(s,k)
-print(f"el rpimer valor es: s={s} sumado con {k} es igual a ", s + k)
+# 
+print(f"el primer valor es: s={s} sumado con {k} es igual a ", s + k)
 
 
 
